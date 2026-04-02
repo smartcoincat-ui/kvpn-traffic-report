@@ -1,0 +1,158 @@
+{
+  "generatedAt": "2026-04-02T15:27:21.868328Z",
+  "server": "103.74.92.75",
+  "people": [
+    {
+      "person": "Фёдор",
+      "profiles": [
+        {
+          "name": "DCat_V2",
+          "address": "10.8.0.21",
+          "allowed_ips": "10.8.0.21/32",
+          "createdAt": "2026-03-22T08:41:45.481Z",
+          "lastHandshake": 1775143545,
+          "rx": 2880510960,
+          "tx": 48262231896,
+          "total": 51142742856,
+          "endpoint": "128.71.206.5:38812",
+          "rxGB": 2.683,
+          "txGB": 44.948,
+          "totalGB": 47.63,
+          "lastHandshakeISO": "2026-04-02T15:25:45Z"
+        },
+        {
+          "name": "DCatPlanshetHuaw",
+          "address": "10.8.0.20",
+          "allowed_ips": "10.8.0.20/32",
+          "createdAt": "2026-03-21T13:49:47.481Z",
+          "lastHandshake": 1774966196,
+          "rx": 29915636,
+          "tx": 797437916,
+          "total": 827353552,
+          "endpoint": "128.71.80.201:48268",
+          "rxGB": 0.028,
+          "txGB": 0.743,
+          "totalGB": 0.771,
+          "lastHandshakeISO": "2026-03-31T14:09:56Z"
+        },
+        {
+          "name": "DCat_Beam",
+          "address": "10.8.0.35",
+          "allowed_ips": "10.8.0.35/32",
+          "createdAt": "2026-04-02T15:06:01.301Z",
+          "lastHandshake": 1775143636,
+          "rx": 5300136,
+          "tx": 56090532,
+          "total": 61390668,
+          "endpoint": "128.71.206.5:38811",
+          "rxGB": 0.005,
+          "txGB": 0.052,
+          "totalGB": 0.057,
+          "lastHandshakeISO": "2026-04-02T15:27:16Z"
+        }
+      ],
+      "total": 52031487076,
+      "rx": 2915726732,
+      "tx": 49115760344,
+      "totalGB": 48.458,
+      "rxGB": 2.715,
+      "txGB": 45.743,
+      "createdFirst": "2026-03-21T13:49:47.481Z",
+      "createdLast": "2026-04-02T15:06:01.301Z",
+      "sharePct": 48.6
+    },
+    {
+      "person": "Даша",
+      "profiles": [
+        {
+          "name": "Dasha1",
+          "address": "10.8.0.26",
+          "allowed_ips": "10.8.0.26/32",
+          "createdAt": "2026-03-24T11:51:24.560Z",
+          "lastHandshake": 1775143606,
+          "rx": 1900365020,
+          "tx": 43675612048,
+          "total": 45575977068,
+          "endpoint": "128.71.249.179:44197",
+          "rxGB": 1.77,
+          "txGB": 40.676,
+          "totalGB": 42.446,
+          "lastHandshakeISO": "2026-04-02T15:26:46Z"
+        },
+        {
+          "name": "Dash1",
+          "address": "10.8.0.33",
+          "allowed_ips": "10.8.0.33/32",
+          "createdAt": "2026-03-31T18:37:31.770Z",
+          "lastHandshake": 1775057089,
+          "rx": 108534928,
+          "tx": 1138165284,
+          "total": 1246700212,
+          "endpoint": "128.71.72.44:43926",
+          "rxGB": 0.101,
+          "txGB": 1.06,
+          "totalGB": 1.161,
+          "lastHandshakeISO": "2026-04-01T15:24:49Z"
+        }
+      ],
+      "total": 46822677280,
+      "rx": 2008899948,
+      "tx": 44813777332,
+      "totalGB": 43.607,
+      "rxGB": 1.871,
+      "txGB": 41.736,
+      "createdFirst": "2026-03-24T11:51:24.560Z",
+      "createdLast": "2026-03-31T18:37:31.770Z",
+      "sharePct": 43.7
+    },
+    {
+      "person": "Аня",
+      "profiles": [
+        {
+          "name": "Anny",
+          "address": "10.8.0.31",
+          "allowed_ips": "10.8.0.31/32",
+          "createdAt": "2026-03-30T17:28:54.928Z",
+          "lastHandshake": 1775142013,
+          "rx": 1136088904,
+          "tx": 7051616080,
+          "total": 8187704984,
+          "endpoint": "128.71.123.215:18439",
+          "rxGB": 1.058,
+          "txGB": 6.567,
+          "totalGB": 7.625,
+          "lastHandshakeISO": "2026-04-02T15:00:13Z"
+        },
+        {
+          "name": "Nout_Ann",
+          "address": "10.8.0.32",
+          "allowed_ips": "10.8.0.32/32",
+          "createdAt": "2026-03-31T16:05:05.759Z",
+          "lastHandshake": 0,
+          "rx": 0,
+          "tx": 0,
+          "total": 0,
+          "endpoint": null,
+          "rxGB": 0.0,
+          "txGB": 0.0,
+          "totalGB": 0.0,
+          "lastHandshakeISO": null
+        }
+      ],
+      "total": 8187704984,
+      "rx": 1136088904,
+      "tx": 7051616080,
+      "totalGB": 7.625,
+      "rxGB": 1.058,
+      "txGB": 6.567,
+      "createdFirst": "2026-03-30T17:28:54.928Z",
+      "createdLast": "2026-03-31T16:05:05.759Z",
+      "sharePct": 7.6
+    }
+  ],
+  "analysis": [
+    "Лидер по потреблению: Фёдор — 48.458 GB (48.6% от общего трафика группы).",
+    "Трафик Даши выше, чем у Ани: 43.607 GB vs 7.625 GB.",
+    "Рекомендация: ввести лимит по времени/трафику и контроль вечерних часов для профилей Даши."
+  ]
+}
