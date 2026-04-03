@@ -1,5 +1,44 @@
 {
-  "generatedAt": "2026-04-03T16:50:59.336566Z",
+  "generatedAt": "2026-04-03T16:55:00.342216Z",
+  "server": "103.74.92.75",
+  "dashProfiles": [
+    {
+      "name": "Dasha1",
+      "ip": "10.8.0.26",
+      "createdAt": "2026-03-24T11:51:24.560Z",
+      "updatedAt": "2026-03-24T11:51:24.560Z",
+      "endpoint": "128.71.249.179:18143",
+      "lastHandshake": 1775234315,
+      "lastHandshakeISO": "2026-04-03T16:38:35Z",
+      "rx": 2047631408,
+      "tx": 46614981512,
+      "total": 48662612920,
+      "rxGB": 1.907,
+      "txGB": 43.414,
+      "totalGB": 45.321
+    },
+    {
+      "name": "Dash1",
+      "ip": "10.8.0.33",
+      "createdAt": "2026-03-31T18:37:31.770Z",
+      "updatedAt": "2026-03-31T18:37:31.770Z",
+      "endpoint": "176.111.79.118:49385",
+      "lastHandshake": 1775235219,
+      "lastHandshakeISO": "2026-04-03T16:53:39Z",
+      "rx": 236155044,
+      "tx": 2159677656,
+      "total": 2395832700,
+      "rxGB": 0.22,
+      "txGB": 2.011,
+      "totalGB": 2.231
+    }
+  ],
+  "totals": {
+    "totalBytes": 51058445620,
+    "totalGB": 47.552,
+    "rxGB": 2.127,
+    "txGB": 45.425
+  },
   "history": [
     {
       "ts": "2026-04-02T20:12:24.380932Z",
@@ -25,14 +64,5 @@
       "dash2Bytes": 0,
       "label": "03.04 16:50"
     }
-  ],
-  "snapshot": {
-    "generatedAt": "2026-04-03T16:50:05.833323Z",
-    "captureFile": "/opt/netstack/monitor/dash-20260403T165005Z.log",
-    "devices": {},
-    "topEndpoints": [],
-    "totalPackets": 0,
-    "totalBytes": 0
-  },
-  "trafficTypes": []
+  ]
 }
