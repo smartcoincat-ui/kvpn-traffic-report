@@ -1,8 +1,7 @@
 {
-  "generatedAt": "2026-04-03T04:52:14.729782Z",
-  "captureFile": "/opt/netstack/monitor/dcat-20260403T045214Z.log",
-  "devices": {},
-  "topEndpoints": [],
-  "totalPackets": 0,
-  "totalBytes": 0
+  "ts": "2026-04-04T07:07:14.652653Z",
+  "bytes": 61045745080,
+  "v2": 57402902532,
+  "beam": 2815488996,
+  "tab": 827353552
 }

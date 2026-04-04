@@ -1,8 +1,6 @@
 {
-  "generatedAt": "2026-04-03T16:50:05.833323Z",
-  "captureFile": "/opt/netstack/monitor/dash-20260403T165005Z.log",
-  "devices": {},
-  "topEndpoints": [],
-  "totalPackets": 0,
-  "totalBytes": 0
+  "ts": "2026-04-04T07:07:14.652653Z",
+  "bytes": 51482144512,
+  "dash1Bytes": 49067670832,
+  "dash2Bytes": 2414473680
 }

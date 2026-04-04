@@ -1,68 +1,430 @@
 {
-  "generatedAt": "2026-04-03T16:55:00.342216Z",
+  "generatedAt": "2026-04-04T07:07:14.652653Z",
   "server": "103.74.92.75",
   "dashProfiles": [
     {
       "name": "Dasha1",
-      "ip": "10.8.0.26",
+      "address": "10.8.0.26",
+      "allowed_ips": "10.8.0.26/32",
       "createdAt": "2026-03-24T11:51:24.560Z",
       "updatedAt": "2026-03-24T11:51:24.560Z",
-      "endpoint": "128.71.249.179:18143",
-      "lastHandshake": 1775234315,
-      "lastHandshakeISO": "2026-04-03T16:38:35Z",
-      "rx": 2047631408,
-      "tx": 46614981512,
-      "total": 48662612920,
-      "rxGB": 1.907,
-      "txGB": 43.414,
-      "totalGB": 45.321
+      "lastHandshake": 1775285300,
+      "lastHandshakeISO": "2026-04-04T06:48:20Z",
+      "endpoint": "128.71.249.179:25971",
+      "rx": 2093928928,
+      "tx": 46973741904,
+      "total": 49067670832,
+      "rxGB": 1.95,
+      "txGB": 43.748,
+      "totalGB": 45.698
     },
     {
       "name": "Dash1",
-      "ip": "10.8.0.33",
+      "address": "10.8.0.33",
+      "allowed_ips": "10.8.0.33/32",
       "createdAt": "2026-03-31T18:37:31.770Z",
       "updatedAt": "2026-03-31T18:37:31.770Z",
+      "lastHandshake": 1775286092,
+      "lastHandshakeISO": "2026-04-04T07:01:32Z",
       "endpoint": "176.111.79.118:49385",
-      "lastHandshake": 1775235219,
-      "lastHandshakeISO": "2026-04-03T16:53:39Z",
-      "rx": 236155044,
-      "tx": 2159677656,
-      "total": 2395832700,
-      "rxGB": 0.22,
-      "txGB": 2.011,
-      "totalGB": 2.231
+      "rx": 241207976,
+      "tx": 2173265704,
+      "total": 2414473680,
+      "rxGB": 0.225,
+      "txGB": 2.024,
+      "totalGB": 2.249
     }
   ],
   "totals": {
-    "totalBytes": 51058445620,
-    "totalGB": 47.552,
-    "rxGB": 2.127,
-    "txGB": 45.425
+    "totalBytes": 51482144512,
+    "totalGB": 47.946,
+    "rxGB": 2.175,
+    "txGB": 45.772
   },
   "history": [
     {
-      "ts": "2026-04-02T20:12:24.380932Z",
+      "ts": "2026-04-03T19:15:02.044612Z",
       "packets": 0,
       "bytes": 0,
       "dash1Bytes": 0,
       "dash2Bytes": 0,
-      "label": "02.04 20:12"
+      "label": "03.04 19:15"
     },
     {
-      "ts": "2026-04-02T20:23:58.300745Z",
+      "ts": "2026-04-03T19:30:01.220061Z",
       "packets": 0,
       "bytes": 0,
       "dash1Bytes": 0,
       "dash2Bytes": 0,
-      "label": "02.04 20:23"
+      "label": "03.04 19:30"
     },
     {
-      "ts": "2026-04-03T16:50:05.833323Z",
+      "ts": "2026-04-03T19:45:01.355953Z",
       "packets": 0,
       "bytes": 0,
       "dash1Bytes": 0,
       "dash2Bytes": 0,
-      "label": "03.04 16:50"
+      "label": "03.04 19:45"
+    },
+    {
+      "ts": "2026-04-03T20:00:01.504791Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 20:00"
+    },
+    {
+      "ts": "2026-04-03T20:15:01.645422Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 20:15"
+    },
+    {
+      "ts": "2026-04-03T20:30:01.820823Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 20:30"
+    },
+    {
+      "ts": "2026-04-03T20:45:01.965304Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 20:45"
+    },
+    {
+      "ts": "2026-04-03T21:00:01.125903Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 21:00"
+    },
+    {
+      "ts": "2026-04-03T21:15:01.274439Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 21:15"
+    },
+    {
+      "ts": "2026-04-03T21:30:01.429437Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 21:30"
+    },
+    {
+      "ts": "2026-04-03T21:45:01.572124Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 21:45"
+    },
+    {
+      "ts": "2026-04-03T22:00:01.688689Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 22:00"
+    },
+    {
+      "ts": "2026-04-03T22:15:01.808959Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 22:15"
+    },
+    {
+      "ts": "2026-04-03T22:30:01.944521Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 22:30"
+    },
+    {
+      "ts": "2026-04-03T22:45:02.072895Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 22:45"
+    },
+    {
+      "ts": "2026-04-03T23:00:01.192853Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 23:00"
+    },
+    {
+      "ts": "2026-04-03T23:15:01.318006Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 23:15"
+    },
+    {
+      "ts": "2026-04-03T23:30:01.468316Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 23:30"
+    },
+    {
+      "ts": "2026-04-03T23:45:01.584887Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "03.04 23:45"
+    },
+    {
+      "ts": "2026-04-04T00:00:01.720114Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 00:00"
+    },
+    {
+      "ts": "2026-04-04T00:15:01.844010Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 00:15"
+    },
+    {
+      "ts": "2026-04-04T00:30:01.983810Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 00:30"
+    },
+    {
+      "ts": "2026-04-04T00:45:01.092428Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 00:45"
+    },
+    {
+      "ts": "2026-04-04T01:00:01.203564Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 01:00"
+    },
+    {
+      "ts": "2026-04-04T01:15:01.322126Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 01:15"
+    },
+    {
+      "ts": "2026-04-04T01:30:01.448245Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 01:30"
+    },
+    {
+      "ts": "2026-04-04T01:45:01.554386Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 01:45"
+    },
+    {
+      "ts": "2026-04-04T02:00:01.659983Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 02:00"
+    },
+    {
+      "ts": "2026-04-04T02:15:01.772071Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 02:15"
+    },
+    {
+      "ts": "2026-04-04T02:30:01.908375Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 02:30"
+    },
+    {
+      "ts": "2026-04-04T02:45:02.022417Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 02:45"
+    },
+    {
+      "ts": "2026-04-04T03:00:01.141153Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 03:00"
+    },
+    {
+      "ts": "2026-04-04T03:15:01.298399Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 03:15"
+    },
+    {
+      "ts": "2026-04-04T03:30:01.426057Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 03:30"
+    },
+    {
+      "ts": "2026-04-04T03:45:01.537750Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 03:45"
+    },
+    {
+      "ts": "2026-04-04T04:00:01.662346Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 04:00"
+    },
+    {
+      "ts": "2026-04-04T04:15:01.775558Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 04:15"
+    },
+    {
+      "ts": "2026-04-04T04:30:01.894372Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 04:30"
+    },
+    {
+      "ts": "2026-04-04T04:45:02.026853Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 04:45"
+    },
+    {
+      "ts": "2026-04-04T05:00:01.155215Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 05:00"
+    },
+    {
+      "ts": "2026-04-04T05:15:01.267331Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 05:15"
+    },
+    {
+      "ts": "2026-04-04T05:30:01.415256Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 05:30"
+    },
+    {
+      "ts": "2026-04-04T05:45:01.558640Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 05:45"
+    },
+    {
+      "ts": "2026-04-04T06:00:01.680085Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 06:00"
+    },
+    {
+      "ts": "2026-04-04T06:15:01.804672Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 06:15"
+    },
+    {
+      "ts": "2026-04-04T06:30:02.012084Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 06:30"
+    },
+    {
+      "ts": "2026-04-04T06:45:01.182722Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 06:45"
+    },
+    {
+      "ts": "2026-04-04T07:00:01.338235Z",
+      "packets": 0,
+      "bytes": 0,
+      "dash1Bytes": 0,
+      "dash2Bytes": 0,
+      "label": "04.04 07:00"
     }
   ]
 }
